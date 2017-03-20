@@ -40,7 +40,7 @@ More info [here](http://tensorflow.org).
 <a name="github-projects" />
 ## Models/Projects
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
-* [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+* [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Neural Style](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style
@@ -91,7 +91,7 @@ More info [here](http://tensorflow.org).
 * [NNFlow](https://github.com/welschma/NNFlow)  Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 
 <a name="video" />
-##Videos
+## Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
@@ -108,7 +108,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="papers" />
-##Papers
+## Papers
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
